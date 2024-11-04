@@ -88,10 +88,10 @@
 		0E50322E2CD42D9100850522 = {
 			isa = PBXGroup;
 			children = (
-				0E5032392CD42D9100850522 /* ViewBindingUIKit */,
 				0E5032502CD42D9300850522 /* ViewBindingUIKitTests */,
 				0E50325A2CD42D9300850522 /* ViewBindingUIKitUITests */,
 				0E5032382CD42D9100850522 /* Products */,
+				0E5032392CD42D9100850522 /* ViewBindingUIKit */,
 			);
 			sourceTree = "<group>";
 		};
